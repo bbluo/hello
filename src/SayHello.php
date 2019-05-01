@@ -5,6 +5,6 @@
 	{
 	    public static function world()
 	    {
-	        return 'Hello World!';
+	        return 'Hello World!2';
 	    }
 	}
